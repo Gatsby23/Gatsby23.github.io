@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gatsby23.github.io/zh/sitemap.xml
