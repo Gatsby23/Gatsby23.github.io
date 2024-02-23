@@ -23,21 +23,21 @@ comments: true
 结合论文《Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age》的定义，我这里将SLAM 1.0总结为三个时期：古典时期（1986-2004），算法时期（2004-2015）和应用时期（2016-2022）。
 
 <div class='l-body'>
-<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/assets/img/hello-blog/mono-slam.jpg">
+<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-blog/mono-slam.jpg">
 <figcaption style="text-align: center; margin-top: 10px; margin-bottom: 10px;"> Andrew Davison开发的Mono-SLAM，很难想到20年前就有初版的VR. </figcaption>
 </div>
 
 在古典时期，人们在探索不同算法的可行性：当时的研究者们将SLAM问题都以概率表示，尝试通过不同的概率模型来解决遇到的问题（如扩展卡尔曼滤波（EKF）和粒子滤波（RBPF）算法等）。在这一时期时，人们主要是探索机器人能不能用板载传感器来实现机器人的定位：研究者们像医生一样，不断地给机器人装上不同的传感器。单线激光雷达、视觉传感器和声呐这些在当时看来昂贵的硬件仿佛是人类给机器人后天赋予的视觉和听觉器官，助力机器人探索世界的奥秘。可能因为年代久远，硬件等计算资源的匮乏，这一时期的论文算法理论创新不断，但实践应用的展示却不多。当然也有诸如像Mono-SLAM这样的经典算法出现，但SLAM更多的像一个襁褓里的婴儿，让研究者们在实验室里精心伺候。定位与建图，这俩相辅相成的模块也在这一时期被人们广泛地定义为SLAM的前后端，一直影响到如今的SLAM算法。
 
 <div class='l-body'>
-<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/assets/img/hello-blog/algorithm2.jpg">
+<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-blog/algorithm2.jpg">
 <figcaption style="text-align: center; margin-top: 10px; margin-bottom: 10px;"> ORB-SLAM2(左)、VINS-Mono（中）和Cartographer（右）. </figcaption>
 </div>
 
 在算法时期，人们开始思考从原理上分析SLAM算法：可观性、收敛性和一致性都在这个时期被人们充分讨论，与此同时，开源软件也不断开始涌现。open-slam.org网站的创立，以及上面贡献的经典算法都极大的加速了SLAM算法的出现和研究。这一时段的中后期，随着硬件的加速，研究者们也不局限于实验室场景，Get out of my lab的呼声开始在论文中出现：论文不仅仅是有精确的数值，往往也会配上酷炫的demo。除了本身的定位主题外，重建，避障，探索等任务也逐步与SLAM算法相结合。每一次的学术会议上，SLAM都像一个两三岁蹒跚学步的小孩，被长辈亲戚（研究者）们拉到台前来表演各种各样的节目。除了芯片等计算机硬件革新外，这一时期的传感器也在不断变化：深度相机、红外传感器、3D激光雷达都开始涌现，原本的上一时期主流的传感器们（单线激光雷达、视觉相机甚至惯性传感器等）价格也在不断降低，为SLAM落地提供了良好的硬件基础。诸如像西班牙萨拉戈萨大学开源的ORB-SLAM和谷歌开源的Cartographer更是分别加速了AR和移动机器人领域的发展。落地的可能性更是进一步激起了研究者的热情，学术到财富自由，似乎是那么的接近。但这一时期，人们也产生了疑问，从demo来看，SLAM似乎效果已经很好了，那SLAM这个问题是不是已经解决了？
 
 <div class='l-body'>
-<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/assets/img/hello-blog/lin.png">
+<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-blog/lin.png">
 <figcaption style="text-align: center; margin-top: 10px; margin-bottom: 10px;"> 香港大学MARS实验室系列作品. </figcaption>
 </div>
 
@@ -50,7 +50,7 @@ comments: true
 # SLAM 2.0时代
 
 <div class='l-body'>
-<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/assets/img/hello-blog/yp-sjtu.jpg">
+<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-blog/yp-sjtu.jpg">
 <figcaption style="text-align: center; margin-top: 10px; margin-bottom: 10px;"> 殷鹏博士在上海交通大学E谷悟课剧场做报告. </figcaption>
 </div>
 
