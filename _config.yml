@@ -77,7 +77,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Qi-Wu-42 # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
@@ -273,8 +273,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["SLAM", "VIO", "LIO", "LVIO", "NeRF"] # these tags will be displayed on the front page of your blog
-display_categories: ["Research", "Project"] # these categories will be displayed on the front page of your blog
+display_tags: ["SLAM", "Sensors", "VIO", "LIO", "LVIO", "NeRF"] # these tags will be displayed on the front page of your blog
+display_categories: ["Disscussion", "Algorithms", "Research", "Project"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -449,10 +449,10 @@ vega-lite:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume_en
-    json: assets/json/resume_en.json # it can also be an url
-  - data: resume_pt-br
-    json: assets/json/resume_pt-br.json # it can also be an url
+  # - data: resume_en
+  #   json: assets/json/resume_en.json # it can also be an url
+  # - data: resume_pt-br
+  #   json: assets/json/resume_pt-br.json # it can also be an url
 jsonresume:
   - basics
   - work
