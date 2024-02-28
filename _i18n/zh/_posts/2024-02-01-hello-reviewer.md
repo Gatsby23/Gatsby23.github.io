@@ -103,6 +103,6 @@ comments: true
 最后需要做的，只不过是把这个抽象的闪念，翻译成具象的代码，实验以及文字。在这个过程中，美妙的思维火花可能只是隐隐约约地闪烁在脑海。 而我对诸位审稿人的请求，即是共情，想象你就是撰稿人，正处在火花飞扬前的黑夜。
 
 <div class='l-body'>
-<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-reviewer/3.gif">
+<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-reviewer/3.jpeg">
 <figcaption style="text-align: center; margin-top: 10px; margin-bottom: 10px;"> 登上山顶的美. </figcaption>
 </div>
