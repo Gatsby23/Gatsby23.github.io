@@ -15,7 +15,7 @@ comments: true
 ---
 # 声明：
 
-英文原文：[Novelty in Science](), by Michael J. Black.
+英文原文：[Novelty in Science](https://perceiving-systems.blog/en/news/novelty-in-science), by Michael J. Black.
 
 翻译原文：[当我们谈科学研究的创新性时，我们在谈些什么-审稿人篇](https://xiuyuliang.cn/blogs/novelty.html), by 修宇亮.
 
