@@ -215,6 +215,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - baidu_verify_codeva-bgzOSLuBi2.html
 
 # Plug-ins
 plugins:
