@@ -1,3 +1,3 @@
 我是吴奇，是泡泡SLAM机器人团队的成员，目前在上海交通大学攻读博士学位，研究方向是基于多源传感器融合的SLAM算法。我的科研主要集中于基于新型传感器（如360度摄像头和毫米波雷达）的SLAM算法应用以及三维隐式重建算法（如NeRF）。我的博士生导师是[郁文贤](https://www.researchgate.net/profile/Wenxian-Yu) 和 [裴凌](https://scholar.google.com.tw/citations?user=Vm7d2EkAAAAJ&hl=zh-TW&oi=sra)老师.同时，我和[陈谢沅澧](https://xieyuanli-chen.com/)老师合作紧密. 在这之前，我在北京邮电大学跟随[邓中亮](https://scholar.google.com.tw/citations?hl=zh-TW&user=Dm2WVQwAAAAJ)老师和[焦继超](https://scholar.google.com.tw/citations?hl=zh-TW&user=2uaYjQ4AAAAJ)老师获得了硕士学位; 我本科毕业于重庆邮电大学，在[周牧](https://scholar.google.com.tw/citations?hl=zh-TW&user=uBUdQkgAAAAJ)老师的引导下，对于定位方向展开研究。
 
-现在每天都会出现许多新的SLAM算法系统。我希望能尽自己的一份力，对每一个新系统进行拆解，让从业人员分析和筛选出自己需要的模块或系统。如果能帮到大家，这将是我最快乐的事情，也是这个blog存在的意义。
+现在每天都会出现许多新的SLAM算法系统。我希望能尽自己的一份力，对每一个新系统进行拆解，让从业人员分析和筛选出自己需要的模块或系统。如果能帮到大家，这将是我最快乐的事情，也是这个blog存在的意义。如果您对这些领域有兴趣或在相关领域有专业知识，可以发送邮件到我的邮箱。十分期待可能的合作机会。
