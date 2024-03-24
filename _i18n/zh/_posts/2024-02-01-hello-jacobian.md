@@ -168,7 +168,7 @@ $$
 ## 2.1 运算的方向
 加法($ \oplus $)/减法($ \ominus $)是流形上用于表示运动递增/递减的常见运算之一。如图所示，每次的运算都是在当前点的切平面上。由于流形本身光滑的原因，由于当前点的切平面方向也在变化，造成的影响是每次递增或递减的方向也不同。所以对于群上来说左加还是右加，左减还是右减得到结果也都不同。
 <div class='l-body'>
-<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-jacobian/lie_cal.jpg">
+<img class="img-fluid rounded z-depth-1" src="{{site.baseurl}}/../assets/img/hello-jacobian/lie-cal.jpg">
 <figcaption style="text-align: center; margin-top: 10px; margin-bottom: 10px;"> 李群的运算，需要主要到的是从$\mathcal{E}$到$\mathcal{Y}$和$\mathcal{Y}$到\mathcal{E}并不是同一条路径。<d-cite key="sola2018micro"></d-cite> </figcaption>
 </div>
 我们定义右加如下：
