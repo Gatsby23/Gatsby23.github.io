@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: 老师，我太想写SLAM了-李群/李代数篇
-date: 2024-03-24 00:00:00
+date: 2024-03-20 00:00:00
 description: '本篇论文主要以“A micro Lie theory for state estimation in robotics”这篇论文为基础，简单介绍下李群李代数在SLAM中的应用。与以外介绍不同的是，本篇更多的是在介绍在于求导Jacobian方面，希望能更快地帮助同学们克服SLAM状态估计过程中的求导难题，进而能快更好地写出自己的算法，加速研究进度。'
 authors:
   - name: 作者：吴奇/徐翔宇
