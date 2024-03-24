@@ -19,6 +19,7 @@ d-article d-byline a {
 }
 
 d-article {
+  // text-indent: 2em !important;
   border-top-color: var(--global-divider-color) !important;
   p,
   h1,
@@ -155,6 +156,7 @@ d-appendix {
 @media (max-width: 1024px) {
   d-article {
     d-contents {
+      // text-indent: 2em !important;
       display: block;
       grid-column-start: 2;
       grid-column-end: -2;
