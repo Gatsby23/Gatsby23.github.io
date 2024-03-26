@@ -1,53 +1,64 @@
-- title: General Information
+- title: 个人简介
   type: map
   contents:
     - name: Full Name
-      value: Qi. Wu
+      value: 吴奇
     - name: Languages
-      value: English, Chinese
-    - name: Research Interest.
-      value: SLAM、Implicit 3D Reconstruction
+      value: English, 中文
+    - name: 研究领域
+      value: SLAM、三维重建
 
-- title: Education
+- title: 教育经历
   type: time_table
   contents:
-    - title: Phd in SJTU.
-      institution: Shanghai Key Laboratory of Navigation and Location Based Service
-      year: 2019.09 - Present
+    - title: 上海交通大学博士
+      institution: 上海市北斗导航与位置服务重点实验室
+      year: 2019.09 - 至今
       logo: sjtu.png
       description:
-        - <span>Advisor:</span> <a href="https://ssse.sjtu.edu.cn/Data/Info/436">Wenxian Yu</a> & <a href="https://ssse.sjtu.edu.cn/Data/View/308">Ling Pei</a>.
-    - title: Master in BUPT.
-      institution: Research Center for Wireless Network Positioning and Communication Integration.
+        - <span>导师:</span> <a href="https://ssse.sjtu.edu.cn/Data/Info/436">郁文贤</a> & <a href="https://ssse.sjtu.edu.cn/Data/View/308">裴凌</a>.
+    - title: 北京邮电大学硕士
+      institution: 无线网络定位与通信融合研究中心
       logo: BUPT.svg
       year: 2016.09 - 2019.06
       description:
-        - <span>Advisor:</span> <a href="https://teacher.bupt.edu.cn/dengzhongliang/zh_CN/index.htm">Zhongliang Deng</a> & <a href="https://teacher.bupt.edu.cn/jiaojichao">Jichao Jiao</a>.
-    - title: Bachelor in CQUPT.
-      institution: Wireless Positioning and Spatial Measurement Innovation Team.
+        - <span>导师:</span> <a href="https://teacher.bupt.edu.cn/dengzhongliang/zh_CN/index.htm">邓中亮</a> & <a href="https://teacher.bupt.edu.cn/jiaojichao">焦继超</a>.
+    - title: 重庆邮电大学学士
+      institution: 重庆市重点实验室无线定位与空间测量创新团队
       logo: CQUPT.jpeg
       year: 2012.09 - 2016.06
       description:
-        - <span>Advisor:</span> <a href="https://www.cqcxy.cn/news/2079.html">Mu Zhou</a> .
+        - <span>导师:</span> <a href="https://www.cqcxy.cn/news/2079.html">周牧</a> .
 
-- title: Intern Experience
+- title: 实习经历
   type: time_table
   contents:
-    - title: Software Intern
+    - title: 开发实习生
       institution: Momenta
       year: 2017.06 - 2017.09
       description:
-        - <span>Mentor:</span> Haoping Deng.
-        - <span>Topic:</span> Stereo vision-based SLAM for autonomous driving.
-    - title: Research Intern
-      institution: Bytedance
+        - <span>Mentor:</span> 邓浩平.
+        - <span>内容:</span> 自动驾驶场景下基于双目视觉的视觉SLAM算法.
+    - title: 学术实习生
+      institution: 字节跳动
       year: 2022.03-2023.09
       description:
-        - <span>Mentor:</span> Chao Long & Xiangyu Xu.
-        - <span>Topic:</span> NeRF Reconstruction & Multi-Sensor SLAM.
+        - <span>Mentor:</span> 龙超 & 徐翔宇.
+        - <span>内容:</span> 场景NeRF & 多源融合SLAM算法.
 
-- title: Services
+- title: 奖项荣誉
+  type: time_table
+  contents:
+    - year: 2013
+      items:
+        - 重庆邮电大学薪火杯程序设计大赛<strong>一等奖</strong>
+    - year: 2014
+      items:
+        - <span>高教社全国大学生数学建模大赛<strong>重庆市一等奖</strong></span>
+        - 第九届创青春挑战杯创新创业大赛<strong>全国银奖</strong>
+
+- title: 审稿人
   type: list
   contents:
-     - <strong>Journal Reviewer:</strong> RAL(Robotics and Automation Letters)
-     - <strong>Conference Reviewer:</strong> ICRA'23
+     - <strong>期刊审稿:</strong> RAL(Robotics and Automation Letters)
+     - <strong>会议审稿:</strong> ICRA'23
