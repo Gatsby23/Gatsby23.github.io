@@ -1,2 +1,2 @@
-Our work has been accepted by the TIE(Transactions on Industrial Electronics).
+我们的工作被TIE(Transactions on Industrial Electronics)接收.
 ! :sparkles: :smile:
