@@ -7,6 +7,10 @@
       value: English, 中文
     - name: 研究领域
       value: SLAM、三维重建
+    - name: 期刊审稿人.
+      value: RAL(Robotics and Automation Letters)、TIV(Transactions on Intelligent Vehicles)、 IEEE Sensor Journal
+    - name: 会议审稿人.
+      value: ICRA'23 IROS'24 ICIP'24 CVPR WorkShorp'24 CVPR'25
 
 - title: 教育经历
   type: time_table
@@ -60,5 +64,5 @@
 - title: 审稿人
   type: list
   contents:
-     - <strong>期刊审稿:</strong> RAL(Robotics and Automation Letters)、TIV(Transactions on Intelligent Vehicles)
-     - <strong>会议审稿:</strong> ICRA'23 IROS'24 ICIP'24 CVPR WorkShorp'24
+     - <strong>期刊审稿:</strong> RAL(Robotics and Automation Letters)、TIV(Transactions on Intelligent Vehicles)、IEEE Sensor Journal
+     - <strong>会议审稿:</strong> ICRA'23 IROS'24 ICIP'24 CVPR WorkShorp'24 CVPR'25
